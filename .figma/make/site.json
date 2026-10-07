@@ -1,0 +1,10 @@
+{
+  "description": "Access a visually appealing digital menu for Udupi restaurant, optimized for mobile and tablet use, enhancing the dining experience with easy navigation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
